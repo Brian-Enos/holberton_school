@@ -1,5 +1,5 @@
 # **Holberton School**
-A repository containing the tasks i did as assignments and exams  online at Holberton School, San Francisco Bay Area.
+A repository containing the tasks i did as assignments and exams  online at Holberton School.
 
 
 
